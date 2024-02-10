@@ -10,6 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@stacks/connect": "^7.7.0",
+    "@stacks/network": "^6.11.3",
+    "@stacks/transactions": "^6.11.3",
     "autoprefixer": "^10.4.17",
     "postcss": "^8.4.35",
     "react": "^18.2.0",
